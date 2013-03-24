@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-My solutions for Project Euler, written in Haskell
+My solutions for Project Euler, written in Haskell and Ruby
